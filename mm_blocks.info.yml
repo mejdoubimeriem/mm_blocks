@@ -1,0 +1,6 @@
+name: mejdoubi blokcs
+description: Création d'un module simple pour les blokcs
+package: mejdoubi
+type: module
+core_version_requirement: ^8 || ^9
+version: '1.0.0'
